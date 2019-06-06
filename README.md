@@ -20,3 +20,15 @@ python TurnOESX.py [-u <username>] [-p <password>] [-s server]
 ```
 
 If no password is provided with "-p", the script will prompt the user with a small window to enter credentials.
+
+## Depndencies
+
+### For the python version:
+
+1. pyVmomi
+
+2. pyVim
+
+### For the executable:
+
+No dependencies :)
